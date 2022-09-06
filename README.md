@@ -1,3 +1,9 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyg0711&layout=compact)](https://github.com/kyg0711/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddusrjf)](https://solved.ac/rkddusrjf/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyg0711&show_icons=true&theme=radical)
+
+
+## Language
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+
+## Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
