@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyg0711&show_icons=true&theme=radical)
+<div align="center">
+
+  # 🤔🤔🤔
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyg0711&show_icons=true&theme=radical)
 
 
 ## Language
@@ -7,3 +10,4 @@
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+</div>
